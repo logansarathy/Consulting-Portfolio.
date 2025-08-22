@@ -29,4 +29,8 @@ I will use this repo to:
 ---
 
 🔗 Connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/logansarathy)  
+- [LinkedIn](https://www.linkedin.com/in/logansarathy)
+
+🔗 Notion Portfolio: 
+https://rune-paprika-9fa.notion.site/Logan-s-Consulting-Journey-255fe1b20e5b80618393fa6130f91d1b?source=copy_link
+
