@@ -1,36 +1,33 @@
-# 🚀 Logan’s Consulting Portfolio  
+# Logan’s Consulting Portfolio 🚀
 
-Hi, I’m Logansarathy — an AI Engineering student starting my journey into **Business Intelligence & Consulting**.  
-This repo will document my projects as I learn SQL, Excel, Power BI, and consulting problem-solving.  
-
----
-
-## 📂 Upcoming Projects
-- SQL Expenses Database (Month 1)
-- Excel Personal Finance Tracker (Month 2)
-- Power BI Canteen Dashboard (Month 3)
+This repository documents my journey from **Zero → BI & Strategy Consulting**.  
+I’ll update it regularly with projects, case practice, and learning logs.
 
 ---
 
-## 🧠 Skills I’m Building
-- SQL (Queries, Joins, Aggregations)
-- Excel (Pivot Tables, Dashboards)
-- Power BI (Data Visualization & Insights)
-- Consulting Frameworks (MECE, Issue Trees, Market Sizing)
+## 📌 Current Status
+- ✅ Day 1: Setup complete (LinkedIn banner + first post, GitHub repo, Notion page).  
+- ✅ Day 2: Extended setup finished (Notion structure built, PrepLounge account created, LinkedIn + GitHub + Notion connected).  
+- 🔜 Day 3: First consulting case practice on PrepLounge.
 
 ---
 
-## 📌 Purpose
-I will use this repo to:
-1. Upload my BI & consulting projects step by step.
-2. Track my progress as I move toward a **Business Intelligence / Consulting career**.
-3. Provide proof of work for recruiters, mentors, and peers.
+## 🔗 Key Links
+- **LinkedIn:** [My Journey Updates](https://www.linkedin.com/in/logansarathy) 
+- **Notion Portfolio:** [Logan’s Consulting Journey](https://rune-paprika-9fa.notion.site/Logan-s-Consulting-Journey-255fe1b20e5b80618393fa6130f91d1b?source=copy_link)  
+- **Learning Log:** Tracking cases, projects, and insights (via Notion).  
 
 ---
 
-🔗 Connect with me:  
-- [LinkedIn](https://www.linkedin.com/in/logansarathy)
+## 📂 Projects (Coming Soon)
+- SQL Expenses DB  
+- Excel Tracker  
+- Power BI Canteen Dashboard  
+- Case Study Write-ups  
 
-🔗 Notion Portfolio: 
-https://rune-paprika-9fa.notion.site/Logan-s-Consulting-Journey-255fe1b20e5b80618393fa6130f91d1b?source=copy_link
+---
+
+Stay tuned for weekly updates as I build skills in **SQL, Excel, Power BI, and Consulting Case Practice**.  
+
+
 
